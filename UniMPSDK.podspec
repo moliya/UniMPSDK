@@ -3,10 +3,10 @@ Pod::Spec.new do |s|
   s.name          = "UniMPSDK"
   s.version       = "2.9.8"
   s.summary       = "UniMPSDK"
-  s.homepage      = "https://gitee.com/hangzhou_light_mountain/uni-mpsdk"
+  s.homepage      = "https://github.com/moliya/UniMPSDK"
   s.license       = "MIT"
   s.author        = {'Carefree' => '946715806@qq.com'}
-  s.source        = { :git => "https://gitee.com/hangzhou_light_mountain/uni-mpsdk.git", :tag => s.version}
+  s.source        = { :git => "https://github.com/moliya/UniMPSDK.git", :tag => s.version}
   s.requires_arc  = true
   s.platform      = :ios, '9.0'
   
