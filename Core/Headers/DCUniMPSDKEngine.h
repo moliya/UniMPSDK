@@ -60,6 +60,9 @@ typedef void (^DCUniMPKeepAliveCallback)(id result, BOOL keepAlive);
 
 #pragma mark - 小程序应用相关方法
 
+/// 小程序打开状态，调用此方法可获取小程序对应的 DCUniMPViewController 实例
++ (UIViewController *)getUniMPViewController;
+
 /// 获取 App 运行路径，注：需要将应用资源放到此路径下
 /// @param appid appid
 + (NSString *)getAppRunPathWithAppid:(NSString *)appid;

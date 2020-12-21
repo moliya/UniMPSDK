@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name          = "UniMPSDK"
-  s.version       = "2.9.8"
+  s.version       = "3.0.0"
   s.summary       = "UniMPSDK"
   s.homepage      = "https://github.com/moliya/UniMPSDK"
   s.license       = "MIT"

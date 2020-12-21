@@ -255,6 +255,8 @@
 			<string>PGWXOauth</string>
 			<key>apple</key>
 			<string>PGAppleOauth</string>
+			<key>univerify</key>
+			<string>PGUniVerify</string>
 		</dict>
 		<key>global</key>
 		<true/>
