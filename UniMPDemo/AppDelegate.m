@@ -6,7 +6,7 @@
 //
 
 #import "AppDelegate.h"
-#import "DCUniMP.h"
+#import <UniMPSDK/DCUniMP.h>
 
 @interface AppDelegate ()
 

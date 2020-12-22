@@ -14,40 +14,7 @@
 		17AFAFC52578D23F00019CDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17AFAFC42578D23F00019CDD /* Assets.xcassets */; };
 		17AFAFC82578D23F00019CDD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17AFAFC62578D23F00019CDD /* LaunchScreen.storyboard */; };
 		17AFAFCB2578D23F00019CDD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 17AFAFCA2578D23F00019CDD /* main.m */; };
-		17AFAFD62578D32300019CDD /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFAFD52578D32300019CDD /* AVFoundation.framework */; };
-		17AFB02B2578D35600019CDD /* __uniappes6.js in Resources */ = {isa = PBXBuildFile; fileRef = 17AFB0252578D35600019CDD /* __uniappes6.js */; };
-		17AFB02C2578D35600019CDD /* uni-jsframework.js in Resources */ = {isa = PBXBuildFile; fileRef = 17AFB0262578D35600019CDD /* uni-jsframework.js */; };
-		17AFB02D2578D35600019CDD /* PandoraApi.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 17AFB0272578D35600019CDD /* PandoraApi.bundle */; };
-		17AFB02E2578D35600019CDD /* unincomponents.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17AFB0282578D35600019CDD /* unincomponents.ttf */; };
-		17AFB02F2578D35600019CDD /* weex-polyfill.js in Resources */ = {isa = PBXBuildFile; fileRef = 17AFB0292578D35600019CDD /* weex-polyfill.js */; };
-		17AFB0302578D35600019CDD /* weexUniJs.js in Resources */ = {isa = PBXBuildFile; fileRef = 17AFB02A2578D35600019CDD /* weexUniJs.js */; };
-		17AFB03E2578D38F00019CDD /* storage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0322578D38F00019CDD /* storage.framework */; };
-		17AFB03F2578D38F00019CDD /* liblibNavigator.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0332578D38F00019CDD /* liblibNavigator.a */; };
-		17AFB0402578D38F00019CDD /* liblibNativeUI.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0342578D38F00019CDD /* liblibNativeUI.a */; };
-		17AFB0412578D38F00019CDD /* liblibStorage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0352578D38F00019CDD /* liblibStorage.a */; };
-		17AFB0422578D38F00019CDD /* liblibWeex.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0362578D38F00019CDD /* liblibWeex.a */; };
-		17AFB0432578D38F00019CDD /* liblibIO.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0372578D38F00019CDD /* liblibIO.a */; };
-		17AFB0442578D38F00019CDD /* libcoreSupport.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0382578D38F00019CDD /* libcoreSupport.a */; };
-		17AFB0452578D38F00019CDD /* liblibPGInvocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0392578D38F00019CDD /* liblibPGInvocation.a */; };
-		17AFB0462578D38F00019CDD /* liblibUI.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB03A2578D38F00019CDD /* liblibUI.a */; };
-		17AFB0472578D38F00019CDD /* liblibPDRCore.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB03B2578D38F00019CDD /* liblibPDRCore.a */; };
-		17AFB0482578D38F00019CDD /* liblibNativeObj.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB03C2578D38F00019CDD /* liblibNativeObj.a */; };
-		17AFB0492578D38F00019CDD /* libSDWebImage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB03D2578D38F00019CDD /* libSDWebImage.a */; };
-		17AFB04B2578D3C300019CDD /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB04A2578D3C300019CDD /* JavaScriptCore.framework */; };
-		17AFB04D2578D3CD00019CDD /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB04C2578D3CD00019CDD /* CoreMedia.framework */; };
-		17AFB04F2578D3D500019CDD /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB04E2578D3D500019CDD /* MediaPlayer.framework */; };
-		17AFB0512578D3DF00019CDD /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0502578D3DF00019CDD /* AVKit.framework */; };
-		17AFB0532578D3E700019CDD /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0522578D3E700019CDD /* GLKit.framework */; };
-		17AFB0552578D3EE00019CDD /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0542578D3EE00019CDD /* OpenGLES.framework */; };
-		17AFB0572578D3F500019CDD /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0562578D3F500019CDD /* CoreText.framework */; };
-		17AFB0592578D3FE00019CDD /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0582578D3FE00019CDD /* QuartzCore.framework */; };
-		17AFB05B2578D40600019CDD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB05A2578D40600019CDD /* CoreGraphics.framework */; };
-		17AFB05E2578D41E00019CDD /* QuickLook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB05D2578D41E00019CDD /* QuickLook.framework */; };
-		17AFB0602578D42600019CDD /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB05F2578D42600019CDD /* CoreTelephony.framework */; };
-		17AFB0622578D43000019CDD /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0612578D43000019CDD /* AssetsLibrary.framework */; };
-		17AFB0642578D43700019CDD /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0632578D43700019CDD /* CoreLocation.framework */; };
-		17AFB0662578D44300019CDD /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB0652578D44300019CDD /* AddressBook.framework */; };
-		17AFB0672578D44D00019CDD /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 17AFB05C2578D41100019CDD /* libc++.tbd */; };
+		8AA6A4C13481DF4CB8140531 /* libPods-UniMPDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BFF52AF2886EE94567DDFEA0 /* libPods-UniMPDemo.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,115 +30,9 @@
 		17AFAFC72578D23F00019CDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17AFAFC92578D23F00019CDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		17AFAFCA2578D23F00019CDD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		17AFAFD52578D32300019CDD /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
-		17AFAFD82578D35500019CDD /* DCUniMPSDKEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUniMPSDKEngine.h; sourceTree = "<group>"; };
-		17AFAFD92578D35500019CDD /* DCUniMP.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUniMP.h; sourceTree = "<group>"; };
-		17AFAFDA2578D35500019CDD /* DCUniMPConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUniMPConfiguration.h; sourceTree = "<group>"; };
-		17AFAFDB2578D35500019CDD /* DCUniMPInstance.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUniMPInstance.h; sourceTree = "<group>"; };
-		17AFAFDD2578D35500019CDD /* WXModuleProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXModuleProtocol.h; sourceTree = "<group>"; };
-		17AFAFDE2578D35500019CDD /* WXResourceLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXResourceLoader.h; sourceTree = "<group>"; };
-		17AFAFDF2578D35500019CDD /* WXApmForInstance.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApmForInstance.h; sourceTree = "<group>"; };
-		17AFAFE02578D35500019CDD /* WXWebSocketHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXWebSocketHandler.h; sourceTree = "<group>"; };
-		17AFAFE12578D35500019CDD /* WXImgLoaderProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXImgLoaderProtocol.h; sourceTree = "<group>"; };
-		17AFAFE22578D35500019CDD /* WXComponentManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXComponentManager.h; sourceTree = "<group>"; };
-		17AFAFE32578D35500019CDD /* WXScrollerProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXScrollerProtocol.h; sourceTree = "<group>"; };
-		17AFAFE42578D35500019CDD /* WXRichText.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXRichText.h; sourceTree = "<group>"; };
-		17AFAFE52578D35500019CDD /* WXView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXView.h; sourceTree = "<group>"; };
-		17AFAFE62578D35500019CDD /* WXValidateProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXValidateProtocol.h; sourceTree = "<group>"; };
-		17AFAFE72578D35500019CDD /* WXDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXDefine.h; sourceTree = "<group>"; };
-		17AFAFE82578D35500019CDD /* JSContext+Weex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "JSContext+Weex.h"; sourceTree = "<group>"; };
-		17AFAFE92578D35500019CDD /* WXExtendCallNativeProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXExtendCallNativeProtocol.h; sourceTree = "<group>"; };
-		17AFAFEA2578D35500019CDD /* WXSDKEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSDKEngine.h; sourceTree = "<group>"; };
-		17AFAFEB2578D35500019CDD /* style.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = style.h; sourceTree = "<group>"; };
-		17AFAFEC2578D35500019CDD /* WXResourceRequestHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXResourceRequestHandler.h; sourceTree = "<group>"; };
-		17AFAFED2578D35500019CDD /* WXDisplayLinkManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXDisplayLinkManager.h; sourceTree = "<group>"; };
-		17AFAFEE2578D35500019CDD /* WXUtility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXUtility.h; sourceTree = "<group>"; };
-		17AFAFEF2578D35500019CDD /* WXResourceRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXResourceRequest.h; sourceTree = "<group>"; };
-		17AFAFF02578D35500019CDD /* WXConvert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXConvert.h; sourceTree = "<group>"; };
-		17AFAFF12578D35500019CDD /* WXPageEventNotifyEvent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXPageEventNotifyEvent.h; sourceTree = "<group>"; };
-		17AFAFF22578D35500019CDD /* WXSDKInstance.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSDKInstance.h; sourceTree = "<group>"; };
-		17AFAFF32578D35500019CDD /* WXSDKManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSDKManager.h; sourceTree = "<group>"; };
-		17AFAFF42578D35500019CDD /* WXDebugTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXDebugTool.h; sourceTree = "<group>"; };
-		17AFAFF52578D35500019CDD /* WXType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXType.h; sourceTree = "<group>"; };
-		17AFAFF62578D35500019CDD /* WXApmProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApmProtocol.h; sourceTree = "<group>"; };
-		17AFAFF72578D35500019CDD /* WXJSFrameworkLoadProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXJSFrameworkLoadProtocol.h; sourceTree = "<group>"; };
-		17AFAFF82578D35500019CDD /* WXExceptionUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXExceptionUtils.h; sourceTree = "<group>"; };
-		17AFAFF92578D35500019CDD /* WXIndicatorComponent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXIndicatorComponent.h; sourceTree = "<group>"; };
-		17AFAFFA2578D35500019CDD /* WXErrorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXErrorView.h; sourceTree = "<group>"; };
-		17AFAFFB2578D35500019CDD /* NSObject+WXSwizzle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+WXSwizzle.h"; sourceTree = "<group>"; };
-		17AFAFFC2578D35500019CDD /* WXMonitor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXMonitor.h; sourceTree = "<group>"; };
-		17AFAFFD2578D35500019CDD /* WXSDKInstance+DCExtend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSDKInstance+DCExtend.h"; sourceTree = "<group>"; };
-		17AFAFFE2578D35500019CDD /* WXRecyclerComponent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXRecyclerComponent.h; sourceTree = "<group>"; };
-		17AFAFFF2578D35500019CDD /* WXLog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXLog.h; sourceTree = "<group>"; };
-		17AFB0002578D35600019CDD /* WXScrollerComponent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXScrollerComponent.h; sourceTree = "<group>"; };
-		17AFB0012578D35600019CDD /* WXNetworkProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXNetworkProtocol.h; sourceTree = "<group>"; };
-		17AFB0022578D35600019CDD /* WXTracingManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXTracingManager.h; sourceTree = "<group>"; };
-		17AFB0032578D35600019CDD /* WXComponent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXComponent.h; sourceTree = "<group>"; };
-		17AFB0042578D35600019CDD /* WXPrerenderManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXPrerenderManager.h; sourceTree = "<group>"; };
-		17AFB0052578D35600019CDD /* WXComponent+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXComponent+Layout.h"; sourceTree = "<group>"; };
-		17AFB0062578D35600019CDD /* layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = layout.h; sourceTree = "<group>"; };
-		17AFB0072578D35600019CDD /* WXSDKInstance+Bridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSDKInstance+Bridge.h"; sourceTree = "<group>"; };
-		17AFB0082578D35600019CDD /* UniPluginProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UniPluginProtocol.h; sourceTree = "<group>"; };
-		17AFB0092578D35600019CDD /* WXModalUIModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXModalUIModule.h; sourceTree = "<group>"; };
-		17AFB00A2578D35600019CDD /* WXAnalyzerCenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXAnalyzerCenter.h; sourceTree = "<group>"; };
-		17AFB00B2578D35600019CDD /* WXVoiceOverModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXVoiceOverModule.h; sourceTree = "<group>"; };
-		17AFB00C2578D35600019CDD /* WXRootView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXRootView.h; sourceTree = "<group>"; };
-		17AFB00D2578D35600019CDD /* WXAppConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXAppConfiguration.h; sourceTree = "<group>"; };
-		17AFB00E2578D35600019CDD /* WXListComponent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXListComponent.h; sourceTree = "<group>"; };
-		17AFB00F2578D35600019CDD /* WXSDKError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSDKError.h; sourceTree = "<group>"; };
-		17AFB0102578D35600019CDD /* WXRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXRootViewController.h; sourceTree = "<group>"; };
-		17AFB0112578D35600019CDD /* WXNavigationProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXNavigationProtocol.h; sourceTree = "<group>"; };
-		17AFB0122578D35600019CDD /* WXAnalyzerProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXAnalyzerProtocol.h; sourceTree = "<group>"; };
-		17AFB0132578D35600019CDD /* WeexSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeexSDK.h; sourceTree = "<group>"; };
-		17AFB0142578D35600019CDD /* WXBridgeManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXBridgeManager.h; sourceTree = "<group>"; };
-		17AFB0152578D35600019CDD /* WXResourceResponse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXResourceResponse.h; sourceTree = "<group>"; };
-		17AFB0162578D35600019CDD /* WXBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXBaseViewController.h; sourceTree = "<group>"; };
-		17AFB0172578D35600019CDD /* WXAppMonitorProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXAppMonitorProtocol.h; sourceTree = "<group>"; };
-		17AFB0182578D35600019CDD /* WeexProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeexProtocol.h; sourceTree = "<group>"; };
-		17AFB0192578D35600019CDD /* WXJSExceptionProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXJSExceptionProtocol.h; sourceTree = "<group>"; };
-		17AFB01A2578D35600019CDD /* WXJSExceptionInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXJSExceptionInfo.h; sourceTree = "<group>"; };
-		17AFB01B2578D35600019CDD /* WXTracingProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXTracingProtocol.h; sourceTree = "<group>"; };
-		17AFB01C2578D35600019CDD /* flex_enum.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = flex_enum.h; sourceTree = "<group>"; };
-		17AFB01D2578D35600019CDD /* WXConfigCenterProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXConfigCenterProtocol.h; sourceTree = "<group>"; };
-		17AFB01E2578D35600019CDD /* WXEventModuleProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXEventModuleProtocol.h; sourceTree = "<group>"; };
-		17AFB01F2578D35600019CDD /* WXURLRewriteProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXURLRewriteProtocol.h; sourceTree = "<group>"; };
-		17AFB0202578D35600019CDD /* WXAComponent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXAComponent.h; sourceTree = "<group>"; };
-		17AFB0212578D35600019CDD /* WXBridgeProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXBridgeProtocol.h; sourceTree = "<group>"; };
-		17AFB0222578D35600019CDD /* DCUniMPError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUniMPError.h; sourceTree = "<group>"; };
-		17AFB0232578D35600019CDD /* DCUniMPMenuActionSheetStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUniMPMenuActionSheetStyle.h; sourceTree = "<group>"; };
-		17AFB0252578D35600019CDD /* __uniappes6.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = __uniappes6.js; sourceTree = "<group>"; };
-		17AFB0262578D35600019CDD /* uni-jsframework.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "uni-jsframework.js"; sourceTree = "<group>"; };
-		17AFB0272578D35600019CDD /* PandoraApi.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PandoraApi.bundle; sourceTree = "<group>"; };
-		17AFB0282578D35600019CDD /* unincomponents.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = unincomponents.ttf; sourceTree = "<group>"; };
-		17AFB0292578D35600019CDD /* weex-polyfill.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "weex-polyfill.js"; sourceTree = "<group>"; };
-		17AFB02A2578D35600019CDD /* weexUniJs.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = weexUniJs.js; sourceTree = "<group>"; };
-		17AFB0322578D38F00019CDD /* storage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = storage.framework; path = Core/Libs/storage.framework; sourceTree = "<group>"; };
-		17AFB0332578D38F00019CDD /* liblibNavigator.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = liblibNavigator.a; path = Core/Libs/liblibNavigator.a; sourceTree = "<group>"; };
-		17AFB0342578D38F00019CDD /* liblibNativeUI.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = liblibNativeUI.a; path = Core/Libs/liblibNativeUI.a; sourceTree = "<group>"; };
-		17AFB0352578D38F00019CDD /* liblibStorage.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = liblibStorage.a; path = Core/Libs/liblibStorage.a; sourceTree = "<group>"; };
-		17AFB0362578D38F00019CDD /* liblibWeex.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = liblibWeex.a; path = Core/Libs/liblibWeex.a; sourceTree = "<group>"; };
-		17AFB0372578D38F00019CDD /* liblibIO.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = liblibIO.a; path = Core/Libs/liblibIO.a; sourceTree = "<group>"; };
-		17AFB0382578D38F00019CDD /* libcoreSupport.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libcoreSupport.a; path = Core/Libs/libcoreSupport.a; sourceTree = "<group>"; };
-		17AFB0392578D38F00019CDD /* liblibPGInvocation.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = liblibPGInvocation.a; path = Core/Libs/liblibPGInvocation.a; sourceTree = "<group>"; };
-		17AFB03A2578D38F00019CDD /* liblibUI.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = liblibUI.a; path = Core/Libs/liblibUI.a; sourceTree = "<group>"; };
-		17AFB03B2578D38F00019CDD /* liblibPDRCore.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = liblibPDRCore.a; path = Core/Libs/liblibPDRCore.a; sourceTree = "<group>"; };
-		17AFB03C2578D38F00019CDD /* liblibNativeObj.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = liblibNativeObj.a; path = Core/Libs/liblibNativeObj.a; sourceTree = "<group>"; };
-		17AFB03D2578D38F00019CDD /* libSDWebImage.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libSDWebImage.a; path = Core/Libs/libSDWebImage.a; sourceTree = "<group>"; };
-		17AFB04A2578D3C300019CDD /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		17AFB04C2578D3CD00019CDD /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
-		17AFB04E2578D3D500019CDD /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
-		17AFB0502578D3DF00019CDD /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
-		17AFB0522578D3E700019CDD /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
-		17AFB0542578D3EE00019CDD /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
-		17AFB0562578D3F500019CDD /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
-		17AFB0582578D3FE00019CDD /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		17AFB05A2578D40600019CDD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		17AFB05C2578D41100019CDD /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
-		17AFB05D2578D41E00019CDD /* QuickLook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickLook.framework; path = System/Library/Frameworks/QuickLook.framework; sourceTree = SDKROOT; };
-		17AFB05F2578D42600019CDD /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
-		17AFB0612578D43000019CDD /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
-		17AFB0632578D43700019CDD /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
-		17AFB0652578D44300019CDD /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		B9FF87BD0684167ABC2AE2BF /* Pods-UniMPDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UniMPDemo.release.xcconfig"; path = "Target Support Files/Pods-UniMPDemo/Pods-UniMPDemo.release.xcconfig"; sourceTree = "<group>"; };
+		BFF52AF2886EE94567DDFEA0 /* libPods-UniMPDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-UniMPDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCA8F94662C167DD2B4FE2C8 /* Pods-UniMPDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UniMPDemo.debug.xcconfig"; path = "Target Support Files/Pods-UniMPDemo/Pods-UniMPDemo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,34 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17AFB0422578D38F00019CDD /* liblibWeex.a in Frameworks */,
-				17AFB0512578D3DF00019CDD /* AVKit.framework in Frameworks */,
-				17AFB0642578D43700019CDD /* CoreLocation.framework in Frameworks */,
-				17AFB0592578D3FE00019CDD /* QuartzCore.framework in Frameworks */,
-				17AFB0462578D38F00019CDD /* liblibUI.a in Frameworks */,
-				17AFB0602578D42600019CDD /* CoreTelephony.framework in Frameworks */,
-				17AFB0472578D38F00019CDD /* liblibPDRCore.a in Frameworks */,
-				17AFB03F2578D38F00019CDD /* liblibNavigator.a in Frameworks */,
-				17AFB0492578D38F00019CDD /* libSDWebImage.a in Frameworks */,
-				17AFB0552578D3EE00019CDD /* OpenGLES.framework in Frameworks */,
-				17AFB0622578D43000019CDD /* AssetsLibrary.framework in Frameworks */,
-				17AFB03E2578D38F00019CDD /* storage.framework in Frameworks */,
-				17AFB04B2578D3C300019CDD /* JavaScriptCore.framework in Frameworks */,
-				17AFB0452578D38F00019CDD /* liblibPGInvocation.a in Frameworks */,
-				17AFB0432578D38F00019CDD /* liblibIO.a in Frameworks */,
-				17AFB05E2578D41E00019CDD /* QuickLook.framework in Frameworks */,
-				17AFB0532578D3E700019CDD /* GLKit.framework in Frameworks */,
-				17AFB0572578D3F500019CDD /* CoreText.framework in Frameworks */,
-				17AFB0662578D44300019CDD /* AddressBook.framework in Frameworks */,
-				17AFB04D2578D3CD00019CDD /* CoreMedia.framework in Frameworks */,
-				17AFB0442578D38F00019CDD /* libcoreSupport.a in Frameworks */,
-				17AFB0482578D38F00019CDD /* liblibNativeObj.a in Frameworks */,
-				17AFB0672578D44D00019CDD /* libc++.tbd in Frameworks */,
-				17AFB0402578D38F00019CDD /* liblibNativeUI.a in Frameworks */,
-				17AFAFD62578D32300019CDD /* AVFoundation.framework in Frameworks */,
-				17AFB04F2578D3D500019CDD /* MediaPlayer.framework in Frameworks */,
-				17AFB05B2578D40600019CDD /* CoreGraphics.framework in Frameworks */,
-				17AFB0412578D38F00019CDD /* liblibStorage.a in Frameworks */,
+				8AA6A4C13481DF4CB8140531 /* libPods-UniMPDemo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -218,7 +52,8 @@
 			children = (
 				17AFAFB72578D23D00019CDD /* UniMPDemo */,
 				17AFAFB62578D23D00019CDD /* Products */,
-				17AFAFD42578D32300019CDD /* Frameworks */,
+				E09B6729DB8ED87157B7E18C /* Pods */,
+				87D6092F3C32AFE4E12F8BFA /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -233,7 +68,6 @@
 		17AFAFB72578D23D00019CDD /* UniMPDemo */ = {
 			isa = PBXGroup;
 			children = (
-				17AFAFD32578D30300019CDD /* Sources */,
 				17AFAFB82578D23D00019CDD /* AppDelegate.h */,
 				17AFAFB92578D23D00019CDD /* AppDelegate.m */,
 				17AFAFBB2578D23D00019CDD /* SceneDelegate.h */,
@@ -249,154 +83,23 @@
 			path = UniMPDemo;
 			sourceTree = "<group>";
 		};
-		17AFAFD32578D30300019CDD /* Sources */ = {
+		87D6092F3C32AFE4E12F8BFA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				17AFAFD72578D35500019CDD /* Headers */,
-				17AFB0242578D35600019CDD /* Resources */,
-			);
-			path = Sources;
-			sourceTree = "<group>";
-		};
-		17AFAFD42578D32300019CDD /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				17AFB0652578D44300019CDD /* AddressBook.framework */,
-				17AFB0632578D43700019CDD /* CoreLocation.framework */,
-				17AFB0612578D43000019CDD /* AssetsLibrary.framework */,
-				17AFB05F2578D42600019CDD /* CoreTelephony.framework */,
-				17AFB05D2578D41E00019CDD /* QuickLook.framework */,
-				17AFB05C2578D41100019CDD /* libc++.tbd */,
-				17AFB05A2578D40600019CDD /* CoreGraphics.framework */,
-				17AFB0582578D3FE00019CDD /* QuartzCore.framework */,
-				17AFB0562578D3F500019CDD /* CoreText.framework */,
-				17AFB0542578D3EE00019CDD /* OpenGLES.framework */,
-				17AFB0522578D3E700019CDD /* GLKit.framework */,
-				17AFB0502578D3DF00019CDD /* AVKit.framework */,
-				17AFB04E2578D3D500019CDD /* MediaPlayer.framework */,
-				17AFB04C2578D3CD00019CDD /* CoreMedia.framework */,
-				17AFB04A2578D3C300019CDD /* JavaScriptCore.framework */,
-				17AFB0382578D38F00019CDD /* libcoreSupport.a */,
-				17AFB0372578D38F00019CDD /* liblibIO.a */,
-				17AFB03C2578D38F00019CDD /* liblibNativeObj.a */,
-				17AFB0342578D38F00019CDD /* liblibNativeUI.a */,
-				17AFB0332578D38F00019CDD /* liblibNavigator.a */,
-				17AFB03B2578D38F00019CDD /* liblibPDRCore.a */,
-				17AFB0392578D38F00019CDD /* liblibPGInvocation.a */,
-				17AFB0352578D38F00019CDD /* liblibStorage.a */,
-				17AFB03A2578D38F00019CDD /* liblibUI.a */,
-				17AFB0362578D38F00019CDD /* liblibWeex.a */,
-				17AFB03D2578D38F00019CDD /* libSDWebImage.a */,
-				17AFB0322578D38F00019CDD /* storage.framework */,
-				17AFAFD52578D32300019CDD /* AVFoundation.framework */,
+				BFF52AF2886EE94567DDFEA0 /* libPods-UniMPDemo.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		17AFAFD72578D35500019CDD /* Headers */ = {
+		E09B6729DB8ED87157B7E18C /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				17AFAFD82578D35500019CDD /* DCUniMPSDKEngine.h */,
-				17AFAFD92578D35500019CDD /* DCUniMP.h */,
-				17AFAFDA2578D35500019CDD /* DCUniMPConfiguration.h */,
-				17AFAFDB2578D35500019CDD /* DCUniMPInstance.h */,
-				17AFAFDC2578D35500019CDD /* weexHeader */,
-				17AFB0222578D35600019CDD /* DCUniMPError.h */,
-				17AFB0232578D35600019CDD /* DCUniMPMenuActionSheetStyle.h */,
+				CCA8F94662C167DD2B4FE2C8 /* Pods-UniMPDemo.debug.xcconfig */,
+				B9FF87BD0684167ABC2AE2BF /* Pods-UniMPDemo.release.xcconfig */,
 			);
-			name = Headers;
-			path = Core/Headers;
-			sourceTree = SOURCE_ROOT;
-		};
-		17AFAFDC2578D35500019CDD /* weexHeader */ = {
-			isa = PBXGroup;
-			children = (
-				17AFAFDD2578D35500019CDD /* WXModuleProtocol.h */,
-				17AFAFDE2578D35500019CDD /* WXResourceLoader.h */,
-				17AFAFDF2578D35500019CDD /* WXApmForInstance.h */,
-				17AFAFE02578D35500019CDD /* WXWebSocketHandler.h */,
-				17AFAFE12578D35500019CDD /* WXImgLoaderProtocol.h */,
-				17AFAFE22578D35500019CDD /* WXComponentManager.h */,
-				17AFAFE32578D35500019CDD /* WXScrollerProtocol.h */,
-				17AFAFE42578D35500019CDD /* WXRichText.h */,
-				17AFAFE52578D35500019CDD /* WXView.h */,
-				17AFAFE62578D35500019CDD /* WXValidateProtocol.h */,
-				17AFAFE72578D35500019CDD /* WXDefine.h */,
-				17AFAFE82578D35500019CDD /* JSContext+Weex.h */,
-				17AFAFE92578D35500019CDD /* WXExtendCallNativeProtocol.h */,
-				17AFAFEA2578D35500019CDD /* WXSDKEngine.h */,
-				17AFAFEB2578D35500019CDD /* style.h */,
-				17AFAFEC2578D35500019CDD /* WXResourceRequestHandler.h */,
-				17AFAFED2578D35500019CDD /* WXDisplayLinkManager.h */,
-				17AFAFEE2578D35500019CDD /* WXUtility.h */,
-				17AFAFEF2578D35500019CDD /* WXResourceRequest.h */,
-				17AFAFF02578D35500019CDD /* WXConvert.h */,
-				17AFAFF12578D35500019CDD /* WXPageEventNotifyEvent.h */,
-				17AFAFF22578D35500019CDD /* WXSDKInstance.h */,
-				17AFAFF32578D35500019CDD /* WXSDKManager.h */,
-				17AFAFF42578D35500019CDD /* WXDebugTool.h */,
-				17AFAFF52578D35500019CDD /* WXType.h */,
-				17AFAFF62578D35500019CDD /* WXApmProtocol.h */,
-				17AFAFF72578D35500019CDD /* WXJSFrameworkLoadProtocol.h */,
-				17AFAFF82578D35500019CDD /* WXExceptionUtils.h */,
-				17AFAFF92578D35500019CDD /* WXIndicatorComponent.h */,
-				17AFAFFA2578D35500019CDD /* WXErrorView.h */,
-				17AFAFFB2578D35500019CDD /* NSObject+WXSwizzle.h */,
-				17AFAFFC2578D35500019CDD /* WXMonitor.h */,
-				17AFAFFD2578D35500019CDD /* WXSDKInstance+DCExtend.h */,
-				17AFAFFE2578D35500019CDD /* WXRecyclerComponent.h */,
-				17AFAFFF2578D35500019CDD /* WXLog.h */,
-				17AFB0002578D35600019CDD /* WXScrollerComponent.h */,
-				17AFB0012578D35600019CDD /* WXNetworkProtocol.h */,
-				17AFB0022578D35600019CDD /* WXTracingManager.h */,
-				17AFB0032578D35600019CDD /* WXComponent.h */,
-				17AFB0042578D35600019CDD /* WXPrerenderManager.h */,
-				17AFB0052578D35600019CDD /* WXComponent+Layout.h */,
-				17AFB0062578D35600019CDD /* layout.h */,
-				17AFB0072578D35600019CDD /* WXSDKInstance+Bridge.h */,
-				17AFB0082578D35600019CDD /* UniPluginProtocol.h */,
-				17AFB0092578D35600019CDD /* WXModalUIModule.h */,
-				17AFB00A2578D35600019CDD /* WXAnalyzerCenter.h */,
-				17AFB00B2578D35600019CDD /* WXVoiceOverModule.h */,
-				17AFB00C2578D35600019CDD /* WXRootView.h */,
-				17AFB00D2578D35600019CDD /* WXAppConfiguration.h */,
-				17AFB00E2578D35600019CDD /* WXListComponent.h */,
-				17AFB00F2578D35600019CDD /* WXSDKError.h */,
-				17AFB0102578D35600019CDD /* WXRootViewController.h */,
-				17AFB0112578D35600019CDD /* WXNavigationProtocol.h */,
-				17AFB0122578D35600019CDD /* WXAnalyzerProtocol.h */,
-				17AFB0132578D35600019CDD /* WeexSDK.h */,
-				17AFB0142578D35600019CDD /* WXBridgeManager.h */,
-				17AFB0152578D35600019CDD /* WXResourceResponse.h */,
-				17AFB0162578D35600019CDD /* WXBaseViewController.h */,
-				17AFB0172578D35600019CDD /* WXAppMonitorProtocol.h */,
-				17AFB0182578D35600019CDD /* WeexProtocol.h */,
-				17AFB0192578D35600019CDD /* WXJSExceptionProtocol.h */,
-				17AFB01A2578D35600019CDD /* WXJSExceptionInfo.h */,
-				17AFB01B2578D35600019CDD /* WXTracingProtocol.h */,
-				17AFB01C2578D35600019CDD /* flex_enum.h */,
-				17AFB01D2578D35600019CDD /* WXConfigCenterProtocol.h */,
-				17AFB01E2578D35600019CDD /* WXEventModuleProtocol.h */,
-				17AFB01F2578D35600019CDD /* WXURLRewriteProtocol.h */,
-				17AFB0202578D35600019CDD /* WXAComponent.h */,
-				17AFB0212578D35600019CDD /* WXBridgeProtocol.h */,
-			);
-			path = weexHeader;
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
-		};
-		17AFB0242578D35600019CDD /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				17AFB0252578D35600019CDD /* __uniappes6.js */,
-				17AFB0262578D35600019CDD /* uni-jsframework.js */,
-				17AFB0272578D35600019CDD /* PandoraApi.bundle */,
-				17AFB0282578D35600019CDD /* unincomponents.ttf */,
-				17AFB0292578D35600019CDD /* weex-polyfill.js */,
-				17AFB02A2578D35600019CDD /* weexUniJs.js */,
-			);
-			name = Resources;
-			path = Core/Resources;
-			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -405,9 +108,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 17AFAFCE2578D23F00019CDD /* Build configuration list for PBXNativeTarget "UniMPDemo" */;
 			buildPhases = (
+				0FADB55BD3B6DFEABB415250 /* [CP] Check Pods Manifest.lock */,
 				17AFAFB12578D23D00019CDD /* Sources */,
 				17AFAFB22578D23D00019CDD /* Frameworks */,
 				17AFAFB32578D23D00019CDD /* Resources */,
+				C527CEA4CE799F5CF5ADAE75 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -454,19 +159,55 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17AFB02D2578D35600019CDD /* PandoraApi.bundle in Resources */,
 				17AFAFC82578D23F00019CDD /* LaunchScreen.storyboard in Resources */,
-				17AFB0302578D35600019CDD /* weexUniJs.js in Resources */,
 				17AFAFC52578D23F00019CDD /* Assets.xcassets in Resources */,
-				17AFB02E2578D35600019CDD /* unincomponents.ttf in Resources */,
-				17AFB02F2578D35600019CDD /* weex-polyfill.js in Resources */,
-				17AFB02C2578D35600019CDD /* uni-jsframework.js in Resources */,
-				17AFB02B2578D35600019CDD /* __uniappes6.js in Resources */,
 				17AFAFC32578D23D00019CDD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0FADB55BD3B6DFEABB415250 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-UniMPDemo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C527CEA4CE799F5CF5ADAE75 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-UniMPDemo/Pods-UniMPDemo-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-UniMPDemo/Pods-UniMPDemo-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-UniMPDemo/Pods-UniMPDemo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		17AFAFB12578D23D00019CDD /* Sources */ = {
@@ -616,6 +357,7 @@
 		};
 		17AFAFCF2578D23F00019CDD /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCA8F94662C167DD2B4FE2C8 /* Pods-UniMPDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -642,6 +384,7 @@
 		};
 		17AFAFD02578D23F00019CDD /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B9FF87BD0684167ABC2AE2BF /* Pods-UniMPDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

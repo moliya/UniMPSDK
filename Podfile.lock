@@ -1,0 +1,24 @@
+PODS:
+  - UniMPSDK (3.0.0):
+    - UniMPSDK/Core (= 3.0.0)
+  - UniMPSDK/Core (3.0.0):
+    - UniMPSDK/Core/Headers (= 3.0.0)
+    - UniMPSDK/Core/Libs (= 3.0.0)
+  - UniMPSDK/Core/Headers (3.0.0):
+    - UniMPSDK/Core/Headers/weexHeader (= 3.0.0)
+  - UniMPSDK/Core/Headers/weexHeader (3.0.0)
+  - UniMPSDK/Core/Libs (3.0.0)
+
+DEPENDENCIES:
+  - UniMPSDK (from `./UniMPSDK`)
+
+EXTERNAL SOURCES:
+  UniMPSDK:
+    :path: "./UniMPSDK"
+
+SPEC CHECKSUMS:
+  UniMPSDK: 63bd9d0b4ff04640556cd1208d9bf1a0636ef6b6
+
+PODFILE CHECKSUM: dbfa9e275fc3ee4cc7e320f7f2cbb747f8f81bbc
+
+COCOAPODS: 1.10.0
