@@ -8,7 +8,7 @@ uni小程序SDK，是为原生App打造的可运行基于 [uni-app](https://unia
 
 * 参考官方的[集成教程](https://nativesupport.dcloud.net.cn/UniMPDocs/UseSdk/ios)
 
-* ~~使用cocoapods集成：`pod 'UniMPSDK'`~~GitHub的免费Git LFS限额不足
+* ~~使用cocoapods集成：`pod 'UniMPSDK'`~~ GitHub的免费Git LFS限额不足
 
 * 使用cocoapods集成本地库
 
